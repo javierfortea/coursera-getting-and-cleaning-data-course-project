@@ -4,5 +4,7 @@ The code reads data from "Human Activity Recognition Using Smartphones Dataset" 
 * File "result-UCI-HAR-data.csv": contains measurements on the mean and standard deviation for each measurement.
 * File "averages-UCI-HAR-data.csv": contains the average of each variable for each activity and each subject.
 
-To execute it:
+To run it, execute in the console:
+```
 source("run_analysis.R")
+```
